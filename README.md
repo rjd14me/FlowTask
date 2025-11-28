@@ -1,4 +1,4 @@
-Task Tracker CLI
+# Task Tracker CLI
 - My personal Solution to the [Task-Tracker](https://roadmap.sh/projects/task-tracker) problem on [Roadmap.sh](https://roadmap.sh/dashboard)
 
 The goal is to build basic experience with:
