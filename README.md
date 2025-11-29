@@ -1,6 +1,19 @@
 # FlowTask (v1.1)
 My personal solution to the [Task Tracker](https://roadmap.sh/projects/task-tracker) problem on [Roadmap.sh](https://roadmap.sh/dashboard).
 
+# How to Demo
+### Setting Up
+```bash
+git clone https://github.com/rjd14me/FlowTask.git
+cd FlowTask
+```
+###
+```bash
+python mainCLI.py 
+```
+```bash
+command> help #to see all commands in the menu
+```
 ## Features
 - Add, update, delete tasks (with optional complete-by dates and priorities)
 - Mark tasks as in-progress or done
@@ -26,7 +39,6 @@ list-done - lists all the tasks that have been completed
 list-not-done - lists all of the tasks that have not been completed.
 list-in-progress - lists all the tasks currently been done.
 help - displays this list of commands
-
 ```
 
 ## Project layout
