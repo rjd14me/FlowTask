@@ -14,6 +14,20 @@ My personal solution to the [Task Tracker](https://roadmap.sh/projects/task-trac
 - Validation: flexible date parsing/formatting and priority normalization.
 - User feedback: colored output, friendly prompts, and error messaging.
 
+## commands
+```bash
+add <task> - add you new task to the list
+update <task id> <new description> - adds a new description to a task already in the list
+delete <task id> - deletes a task from the list
+start <task id> - marks a task as in progress.
+done <task id> - marks a task as been completed.
+list - lists the current task list
+list-done - lists all the tasks that have been completed
+list-not-done - lists all of the tasks that have not been completed.
+list-in-progress - lists all the tasks currently been done.
+
+```
+
 ## Project layout
 ```text
 TASK-TRACKER/
